@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**sophiadiaas/Sophiadiaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Sophia Dias** e seja bem-vindo(a) ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
+## 🎓 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de **Desenvolvimento de Sistemas** e estou dando meus primeiros passos no mundo da programação. Tenho interesse em aprender novas tecnologias, desenvolver projetos práticos e evoluir constantemente como desenvolvedora.
+
+Atualmente, estou estudando desenvolvimento web e aprimorando meus conhecimentos em lógica de programação, sempre buscando transformar o que aprendo em projetos que me ajudem a crescer profissionalmente.
+
+## 🚀 Tecnologias
+
+No momento, estou estudando e praticando as seguintes tecnologias:
+
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+## 🎯 Objetivos
+
+Meu objetivo é construir uma base sólida em programação, desenvolver projetos que fortaleçam meu portfólio e adquirir experiência para atuar na área de tecnologia.
+
+## 📫 Contato
+
+* 📧 E-mail: [sophiavasconcellos388@gmail.com](mailto:sophiavasconcellos388@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/sophiadiaas
+
+Obrigado(a) por visitar meu perfil! Fique à vontade para acompanhar minha evolução e conhecer os projetos que estou desenvolvendo.
